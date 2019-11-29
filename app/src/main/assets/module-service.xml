@@ -1,0 +1,7 @@
+<?xml version ="1.0" encoding ="utf-8"?><!--  Learn More about how to use App Actions: https://developer.android.com/guide/actions/index.html -->
+<root>
+    <module-service>
+        <stub-class>com.dzk.shell.moduleservice.stub.LoginServiceStub</stub-class>
+        <target-class>com.dzk.biz_ogin.LoginService</target-class>
+    </module-service>
+</root>
